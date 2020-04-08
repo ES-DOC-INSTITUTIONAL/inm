@@ -1,0 +1,8 @@
+{
+    "mipEra": "cmip6", 
+    "institute": "inm", 
+    "seedingSource": "Spreadsheet", 
+    "sourceID": "inm-cm5-h", 
+    "topic": "aerosol", 
+    "content": {}
+}
